@@ -89,6 +89,33 @@
         "490"
       ],
       "_note": "Golden Booty, part 2/2: Golden Doubloons, then turn in  [491/492/493=Undead Pirate, 490=Undead First Matey] (doubloon source assumed from q287; live data doesn't say)"
+    },
+    {
+      "qid": 295,
+      "area": "pirates",
+      "frame": "R2",
+      "pad": "Down",
+      "items": 1,
+      "mon": [
+        "491",
+        "492",
+        "493",
+        "490"
+      ],
+      "_note": "Curse of the Gold Doubloon: Golden Doubloons and Dueling Experience from the port's pirates  [491/492/493=Undead Pirate, 490=Undead First Matey]"
+    },
+    {
+      "qid": 296,
+      "area": "seaside",
+      "frame": "R2",
+      "pad": "Left",
+      "items": 1,
+      "mon": [
+        "447",
+        "491",
+        "492"
+      ],
+      "_note": "Seaside Eggstinction: Lucky Golden Eggs from chickens, Golden Doubloons from pirates; turn in back at pirates  [447=Chicken, 491/492=Undead Pirate]"
     }
   ]
 }
