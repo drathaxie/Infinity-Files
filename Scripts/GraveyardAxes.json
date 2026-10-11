@@ -1,0 +1,36 @@
+{
+  "Graveyard Axes": [
+    {
+      "qid": 256,
+      "area": "graveyard",
+      "frame": "R7",
+      "pad": "Spawn",
+      "items": 1,
+      "mon": [
+        "String=211",
+        "tears=166",
+        "tears=188",
+        "Disassembled=263",
+        "Hammer=198",
+        "Claymore=189",
+        "Will=187"
+      ],
+      "_note": "Axe of Undead Tears I (after Graveyard): Archer String from Hooded Robbers, Magi tears from fire/ice mages, Soldier Disassembled, Undead Hammer, Berserker Claymore, Lieutenant's Will; 'Something' from any of them. Objectives from the AQW Infinity Wiki; live hasn't sent this quest's definition yet"
+    },
+    {
+      "qid": 259,
+      "area": "graveyard",
+      "frame": "Enter",
+      "pad": "Spawn",
+      "items": 1,
+      "mon": [
+        "189",
+        "187",
+        "427",
+        "200",
+        "429"
+      ],
+      "_note": "The Blood Axe II: Blood Rituals from Berserkers, Lt. Hammered, Grim, Big Jack Sprat and the Abomilich, plus The TearAxe from q256  [189=Undead Berserker, 187=Lieutenant Hammered, 427=Grim the Reaper, 200=Big Jack Sprat, 429=Abomilich]"
+    }
+  ]
+}

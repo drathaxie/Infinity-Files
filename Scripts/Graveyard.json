@@ -1,0 +1,226 @@
+{
+  "Graveyard": [
+    {
+      "qid": 186,
+      "area": "graveyard",
+      "frame": "Enter",
+      "pad": "Spawn",
+      "items": 1,
+      "mon": [
+        "263"
+      ],
+      "_note": "Mourning the Dead  [263=Undead Soldier]"
+    },
+    {
+      "qid": 203,
+      "area": "graveyard",
+      "frame": "Enter",
+      "pad": "Spawn",
+      "items": 1,
+      "_note": "Raising of the Living: click the Paladins around the map (has non-hunt objectives)"
+    },
+    {
+      "qid": 204,
+      "area": "graveyard",
+      "frame": "Enter",
+      "pad": "Spawn",
+      "items": 1,
+      "_note": "Grave mistake: click the gravestones around the map (has non-hunt objectives)"
+    },
+    {
+      "qid": 205,
+      "area": "graveyard",
+      "frame": "R5",
+      "pad": "Right",
+      "items": 1,
+      "mon": [
+        "189"
+      ],
+      "_note": "Night of the Undead  [189=Undead Berserker]"
+    },
+    {
+      "qid": 207,
+      "area": "graveyard",
+      "frame": "Enter",
+      "pad": "Spawn",
+      "items": 1,
+      "mon": [
+        "263"
+      ],
+      "_note": "Residents of Good  [263=Undead Soldier]"
+    },
+    {
+      "qid": 208,
+      "area": "graveyard",
+      "frame": "R4",
+      "pad": "Left",
+      "items": 1,
+      "mon": [
+        "188"
+      ],
+      "_note": "28 Quests Later  [188=Undead Ice Mage]"
+    },
+    {
+      "qid": 209,
+      "area": "graveyard",
+      "frame": "R5",
+      "pad": "Right",
+      "items": 1,
+      "mon": [
+        "263",
+        "189",
+        "188"
+      ],
+      "_note": "Hero vs the Undead: soldiers and berserkers on R5, then ice mages on R4  [263=Undead Soldier, 189=Undead Berserker, 188=Undead Ice Mage]"
+    },
+    {
+      "qid": 210,
+      "area": "graveyard",
+      "frame": "R3",
+      "pad": "Left",
+      "items": 1,
+      "mon": [
+        "209"
+      ],
+      "_note": "Lich-land  [209=Lich]"
+    },
+    {
+      "qid": 211,
+      "area": "graveyard",
+      "frame": "R3",
+      "pad": "Left",
+      "items": 1,
+      "mon": [
+        "133"
+      ],
+      "_note": "The Walking Undead-Slayer  [133=Resurrected DragonSlayer]"
+    },
+    {
+      "qid": 212,
+      "area": "graveyard",
+      "frame": "R6",
+      "pad": "Right",
+      "items": 1,
+      "mon": [
+        "200"
+      ],
+      "_note": "Dawn of the Living  [200=Big Jack Sprat]"
+    },
+    {
+      "qid": 245,
+      "area": "graveyard",
+      "frame": "R7",
+      "pad": "Spawn",
+      "items": 1,
+      "mon": [
+        "427",
+        "211",
+        "187",
+        "198"
+      ],
+      "_note": "The Return of the Living Undead!  [427=Grim the Reaper, 211=Hooded Robber, 187=Lieutenant Hammered, 198=Undead Hammerer]"
+    },
+    {
+      "qid": 246,
+      "area": "graveyard",
+      "frame": "R7",
+      "pad": "Spawn",
+      "items": 1,
+      "mon": [
+        "198"
+      ],
+      "_note": "Hammered Intel  [198=Undead Hammerer]"
+    },
+    {
+      "qid": 247,
+      "area": "graveyard",
+      "frame": "R7",
+      "pad": "Spawn",
+      "items": 1,
+      "_note": "Cryptographers: walk to the crypt door on R7 (has non-hunt objectives)"
+    },
+    {
+      "qid": 248,
+      "area": "graveyard",
+      "frame": "Enter",
+      "pad": "Spawn",
+      "items": 1,
+      "_note": "Report back to Sir Fainal (has non-hunt objectives)"
+    },
+    {
+      "qid": 249,
+      "area": "graveyard",
+      "frame": "R9",
+      "pad": "Right",
+      "items": 1,
+      "_note": "The Return of the Lich's... brother?: talk to Zecundthad on R9 (has non-hunt objectives)"
+    },
+    {
+      "qid": 250,
+      "area": "graveyard",
+      "frame": "R9",
+      "pad": "Right",
+      "items": 1,
+      "mon": [
+        "166"
+      ],
+      "_note": "Magi of the fire kind  [166=Skeletal Fire Mage]"
+    },
+    {
+      "qid": 251,
+      "area": "graveyard",
+      "frame": "R7",
+      "pad": "Spawn",
+      "items": 1,
+      "mon": [
+        "187"
+      ],
+      "_note": "Hammering the troops  [187=Lieutenant Hammered]"
+    },
+    {
+      "qid": 252,
+      "area": "graveyard",
+      "frame": "R7",
+      "pad": "Spawn",
+      "items": 1,
+      "mon": [
+        "427"
+      ],
+      "_note": "Taking down the Grim Reaper  [427=Grim the Reaper]"
+    },
+    {
+      "qid": 253,
+      "area": "graveyard",
+      "frame": "R7",
+      "pad": "Spawn",
+      "items": 1,
+      "mon": [
+        "427",
+        "211",
+        "187",
+        "198",
+        "166"
+      ],
+      "_note": "Cryptbreakers: Crypt Key from R7's undead or R9's fire mages  [427=Grim the Reaper, 211=Hooded Robber, 187=Lieutenant Hammered, 198=Undead Hammerer, 166=Skeletal Fire Mage]"
+    },
+    {
+      "qid": 254,
+      "area": "graveyard",
+      "frame": "R10",
+      "pad": "Spawn",
+      "items": 1,
+      "mon": [
+        "429"
+      ],
+      "_note": "The Abomilich (boss in the crypt, R10)  [429=Abomilich]"
+    },
+    {
+      "qid": 255,
+      "area": "graveyard",
+      "frame": "Enter",
+      "pad": "Spawn",
+      "items": 1,
+      "_note": "Tying loose ends: report to Sir Fainal (has non-hunt objectives)"
+    }
+  ]
+}
