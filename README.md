@@ -51,6 +51,18 @@ Per entry:
 | `frame` | string | cell to move to; `""` = stay in current cell                           |
 | `pad`   | string | spawn pad in the target cell (default `"Spawn"`)                        |
 | `items` | int    | how many times to loop this quest (default `1`)                        |
+| `mon`   | array  | monsters to hunt: catalog ids (`"451"`) or name substrings (`"Wyvern"`); empty = any hostile |
+
+When a quest has several kill objectives, each one hunts the `mon` entries whose names match
+it (`Wyvern pacified` → Wyvern, `Elemental Essence` → Earth Elemental) and walks to their cell;
+objectives no name matches use the whole list.
+
+**Quests that span maps.** List the quest once per map, in consecutive entries. Every entry but
+the last hunts only the kill objectives it can place on that map (by the monster ids live sends,
+or by name against its `mon` list), then moves on without turning in; the last entry hunts whatever is left and turns the quest in. See
+`Scripts/Pirates.json` (q289: seaside, then pirates).
+
+Per-objective targeting and split quests need a Beyond build with the updated Quest Runner.
 
 A file may contain more than one chain (multiple top-level keys); loading it imports all of them.
 Any extra keys (e.g. `_note`) are ignored, so you can annotate entries inline.

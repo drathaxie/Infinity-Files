@@ -27,6 +27,68 @@
         "490"
       ],
       "_note": "The Skills of a Pirate  [491/492/493=Undead Pirate, 490=Undead First Matey]"
+    },
+    {
+      "qid": 289,
+      "area": "seaside",
+      "frame": "R2",
+      "pad": "Left",
+      "items": 1,
+      "mon": [
+        "7",
+        "447"
+      ],
+      "_note": "Not For the Feint of Heart, part 1/3: fish and chicken on seaside  [7=Zardman Fisherman, 447=Chicken]"
+    },
+    {
+      "qid": 289,
+      "area": "pirates",
+      "frame": "R6",
+      "pad": "Down",
+      "items": 1,
+      "mon": [
+        "451"
+      ],
+      "_note": "Not For the Feint of Heart, part 2/3: wyverns  [451=Wyvern]"
+    },
+    {
+      "qid": 289,
+      "area": "pirates",
+      "frame": "R2",
+      "pad": "Down",
+      "items": 1,
+      "mon": [
+        "491",
+        "492",
+        "493",
+        "490"
+      ],
+      "_note": "Not For the Feint of Heart, part 3/3: Silver Doubloons, then turn in  [491/492/493=Undead Pirate, 490=Undead First Matey]"
+    },
+    {
+      "qid": 290,
+      "area": "pirates",
+      "frame": "R6",
+      "pad": "Down",
+      "items": 1,
+      "mon": [
+        "451"
+      ],
+      "_note": "Golden Booty, part 1/2: Wyvern Hide  [451=Wyvern]"
+    },
+    {
+      "qid": 290,
+      "area": "pirates",
+      "frame": "R2",
+      "pad": "Down",
+      "items": 1,
+      "mon": [
+        "491",
+        "492",
+        "493",
+        "490"
+      ],
+      "_note": "Golden Booty, part 2/2: Golden Doubloons, then turn in  [491/492/493=Undead Pirate, 490=Undead First Matey] (doubloon source assumed from q287; live data doesn't say)"
     }
   ]
 }
