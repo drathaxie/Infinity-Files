@@ -110,6 +110,33 @@
         "498"
       ],
       "_note": "Curse of the Gold Doubloon: Golden Doubloons and Dueling Experience (~50%) from pirates  [489/491/492/493=Undead Pirate, 490=Undead First Matey, 498=Bounty Pirate]"
+    },
+    {
+      "qid": 296,
+      "area": "seaside",
+      "frame": "R2",
+      "pad": "Left",
+      "items": 1,
+      "mon": [
+        "Egg=447"
+      ],
+      "_note": "Seaside Eggstinction, part 1/2: Lucky Gonden Eggs from Seaside Chickens (per the AQW Infinity Wiki)  [447=Seaside Chicken]"
+    },
+    {
+      "qid": 296,
+      "area": "pirates",
+      "frame": "R2",
+      "pad": "Down",
+      "items": 1,
+      "mon": [
+        "489",
+        "490",
+        "491",
+        "492",
+        "493",
+        "498"
+      ],
+      "_note": "Seaside Eggstinction, part 2/2: ~10 Golden Doubloons per kill, then turn in  [489/491/492/493=Undead Pirate, 490=Undead First Matey, 498=Bounty Pirate]"
     }
   ]
 }

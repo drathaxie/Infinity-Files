@@ -55,7 +55,9 @@ Per entry:
 
 When a quest has several kill objectives, each one hunts the `mon` entries whose names match
 it (`Wyvern pacified` → Wyvern, `Elemental Essence` → Earth Elemental) and walks to their cell;
-objectives no name matches use the whole list.
+objectives no name matches use the whole list. When an objective's name gives no clue, point it at
+its monsters with an `"objective=monster"` token: `"Egg=447"` sends the objective whose name contains
+`Egg` to monster 447 (that monster also counts for the rest of the entry).
 
 **Quests that span maps.** List the quest once per map, in consecutive entries. Every entry but
 the last hunts only the kill objectives it can place on that map (by the monster ids live sends,
