@@ -1,0 +1,52 @@
+{
+  "Aranx Manticores": [
+    {
+      "qid": 283,
+      "area": "aranx",
+      "frame": "R4",
+      "pad": "Left",
+      "items": 1,
+      "mon": [
+        "479",
+        "385"
+      ],
+      "_note": "Manticore of Infinity  [479=Infinity Manticore, 385=Earth Elemental]"
+    },
+    {
+      "qid": 284,
+      "area": "aranx",
+      "frame": "Enter",
+      "pad": "Spawn",
+      "items": 1,
+      "mon": [
+        "480",
+        "385"
+      ],
+      "_note": "Manticore of Light  [480=Light Manticore, 385=Earth Elemental]"
+    },
+    {
+      "qid": 285,
+      "area": "aranx",
+      "frame": "R2",
+      "pad": "Left",
+      "items": 1,
+      "mon": [
+        "481",
+        "385"
+      ],
+      "_note": "Manticore of Malice  [481=Malice Manticore, 385=Earth Elemental]"
+    },
+    {
+      "qid": 286,
+      "area": "aranx",
+      "frame": "R3",
+      "pad": "Left",
+      "items": 1,
+      "mon": [
+        "482",
+        "385"
+      ],
+      "_note": "Manticore of Darkness  [482=Darkness Manticore, 385=Earth Elemental]"
+    }
+  ]
+}

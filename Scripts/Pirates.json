@@ -1,0 +1,32 @@
+{
+  "Pirates": [
+    {
+      "qid": 287,
+      "area": "pirates",
+      "frame": "R2",
+      "pad": "Down",
+      "items": 1,
+      "mon": [
+        "491",
+        "492",
+        "493",
+        "490"
+      ],
+      "_note": "The First Pirates  [491/492/493=Undead Pirate, 490=Undead First Matey]"
+    },
+    {
+      "qid": 288,
+      "area": "pirates",
+      "frame": "R2",
+      "pad": "Down",
+      "items": 1,
+      "mon": [
+        "491",
+        "492",
+        "493",
+        "490"
+      ],
+      "_note": "The Skills of a Pirate  [491/492/493=Undead Pirate, 490=Undead First Matey]"
+    }
+  ]
+}

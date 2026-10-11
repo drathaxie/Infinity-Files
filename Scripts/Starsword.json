@@ -1,0 +1,56 @@
+{
+  "Starsword": [
+    {
+      "qid": 301,
+      "area": "asteroid",
+      "frame": "Enter",
+      "pad": "Spawn",
+      "items": 1,
+      "_note": "No Moglins Sky (has non-hunt objectives)"
+    },
+    {
+      "qid": 302,
+      "area": "asteroid",
+      "frame": "R3",
+      "pad": "Spawn",
+      "items": 1,
+      "mon": [
+        "517"
+      ],
+      "_note": "Frogzards in Space?  [517=Space Zard]"
+    },
+    {
+      "qid": 303,
+      "area": "asteroid",
+      "frame": "R4",
+      "pad": "Spawn",
+      "items": 1,
+      "mon": [
+        "519"
+      ],
+      "_note": "Space Sneevils!?  [519=Space Sneevil]"
+    },
+    {
+      "qid": 304,
+      "area": "asteroid",
+      "frame": "R5",
+      "pad": "Spawn",
+      "items": 1,
+      "mon": [
+        "516"
+      ],
+      "_note": "Armageddon  [516=Dwakel Star Caster]"
+    },
+    {
+      "qid": 305,
+      "area": "asteroid",
+      "frame": "R6",
+      "pad": "Spawn",
+      "items": 1,
+      "mon": [
+        "523"
+      ],
+      "_note": "The Dragonoid  [523=Infinity Dragonoid] (boss; all sword parts and Star Fragments drop from it)"
+    }
+  ]
+}
