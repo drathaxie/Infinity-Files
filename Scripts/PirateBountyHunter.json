@@ -23,7 +23,7 @@
         "492",
         "493"
       ],
-      "_note": "A Bounty Pirate out of you, part 2/2: Bounty Hunted ~40% per kill, then turn in (First Mateys don't count)  [489/491/492/493=Undead Pirate]"
+      "_note": "A Bounty Pirate out of you, part 2/2: Bounty Hunted ~40% per kill, then turn in. Live kills credit Undead Pirates only, not First Mateys  [489/491/492/493=Undead Pirate]"
     },
     {
       "qid": 292,
@@ -44,10 +44,10 @@
     {
       "qid": 293,
       "area": "pirates",
-      "frame": "Enter",
-      "pad": "Spawn",
+      "frame": "R8",
+      "pad": "Down",
       "items": 1,
-      "_note": "A Quarter for a Quarter (has non-hunt objectives: the piratesHatch)"
+      "_note": "A Quarter for a Quarter: click the trapdoor padlock on R8 (has non-hunt objectives); opens Cyber Bone-Beard's quarters"
     },
     {
       "qid": 294,
@@ -58,7 +58,7 @@
       "mon": [
         "500"
       ],
-      "_note": "Cyber-Piracy  [500=Cyber Bone-Beard] (no live kills logged yet; source from the live roster)"
+      "_note": "Cyber-Piracy: Computer C#hips from Cyber Bone-Beard in R5 (reachable after q293)  [500=Cyber Bone-Beard]"
     }
   ]
 }

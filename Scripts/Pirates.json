@@ -90,9 +90,10 @@
         "490",
         "491",
         "492",
-        "493"
+        "493",
+        "498"
       ],
-      "_note": "Golden Booty, part 2/2: ~10 Golden Doubloons per kill, then turn in  [489/491/492/493=Undead Pirate, 490=Undead First Matey]"
+      "_note": "Golden Booty, part 2/2: ~10 Golden Doubloons per kill, then turn in  [489/491/492/493=Undead Pirate, 490=Undead First Matey, 498=Bounty Pirate]"
     },
     {
       "qid": 295,
@@ -105,9 +106,10 @@
         "490",
         "491",
         "492",
-        "493"
+        "493",
+        "498"
       ],
-      "_note": "Curse of the Gold Doubloon: Golden Doubloons and Dueling Experience (~50%) from pirates  [489/491/492/493=Undead Pirate, 490=Undead First Matey]"
+      "_note": "Curse of the Gold Doubloon: Golden Doubloons and Dueling Experience (~50%) from pirates  [489/491/492/493=Undead Pirate, 490=Undead First Matey, 498=Bounty Pirate]"
     }
   ]
 }
