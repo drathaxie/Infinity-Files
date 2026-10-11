@@ -59,8 +59,10 @@ objectives no name matches use the whole list.
 
 **Quests that span maps.** List the quest once per map, in consecutive entries. Every entry but
 the last hunts only the kill objectives it can place on that map (by the monster ids live sends,
-or by name against its `mon` list), then moves on without turning in; the last entry hunts whatever is left and turns the quest in. See
-`Scripts/Pirates.json` (q289: seaside, then pirates).
+or by name against its `mon` list), then moves on without turning in; the last entry hunts
+whatever is left and turns the quest in. See `Scripts/Pirates.json` (q289: seaside, then pirates).
+The same works on one map when an objective must avoid some monsters: `Scripts/PirateBountyHunter.json`
+farms q291's First Mateys first, then Bounty Hunted from the Undead Pirates only.
 
 Per-objective targeting and split quests need a Beyond build with the updated Quest Runner.
 
