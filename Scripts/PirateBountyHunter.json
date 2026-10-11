@@ -1,0 +1,64 @@
+{
+  "Pirate Bounty Hunter": [
+    {
+      "qid": 291,
+      "area": "pirates",
+      "frame": "R4",
+      "pad": "Down",
+      "items": 1,
+      "mon": [
+        "490"
+      ],
+      "_note": "A Bounty Pirate out of you, part 1/2: First Matey Hunted (R4/R7/R9)  [490=Undead First Matey]"
+    },
+    {
+      "qid": 291,
+      "area": "pirates",
+      "frame": "R2",
+      "pad": "Down",
+      "items": 1,
+      "mon": [
+        "489",
+        "491",
+        "492",
+        "493"
+      ],
+      "_note": "A Bounty Pirate out of you, part 2/2: Bounty Hunted ~40% per kill, then turn in (First Mateys don't count)  [489/491/492/493=Undead Pirate]"
+    },
+    {
+      "qid": 292,
+      "area": "pirates",
+      "frame": "R2",
+      "pad": "Down",
+      "items": 1,
+      "mon": [
+        "489",
+        "490",
+        "491",
+        "492",
+        "493",
+        "498"
+      ],
+      "_note": "GEARing up: Credit Collected? from Undead Pirates, Locate Bounty Pirate from 498 (R7)  [489/491/492/493=Undead Pirate, 490=Undead First Matey, 498=Bounty Pirate]"
+    },
+    {
+      "qid": 293,
+      "area": "pirates",
+      "frame": "Enter",
+      "pad": "Spawn",
+      "items": 1,
+      "_note": "A Quarter for a Quarter (has non-hunt objectives: the piratesHatch)"
+    },
+    {
+      "qid": 294,
+      "area": "pirates",
+      "frame": "R5",
+      "pad": "Up",
+      "items": 1,
+      "mon": [
+        "500"
+      ],
+      "_note": "Cyber-Piracy  [500=Cyber Bone-Beard] (no live kills logged yet; source from the live roster)"
+    }
+  ]
+}

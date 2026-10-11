@@ -12,7 +12,7 @@
       "qid": 302,
       "area": "asteroid",
       "frame": "R3",
-      "pad": "Spawn",
+      "pad": "Left",
       "items": 1,
       "mon": [
         "517"
@@ -23,7 +23,7 @@
       "qid": 303,
       "area": "asteroid",
       "frame": "R4",
-      "pad": "Spawn",
+      "pad": "Left",
       "items": 1,
       "mon": [
         "519"
@@ -34,23 +34,24 @@
       "qid": 304,
       "area": "asteroid",
       "frame": "R5",
-      "pad": "Spawn",
+      "pad": "Left",
       "items": 1,
       "mon": [
-        "516"
+        "516",
+        "520"
       ],
-      "_note": "Armageddon  [516=Dwakel Star Caster]"
+      "_note": "Armageddon  [516=Dwakel Star Caster, 520=Dwakel Star Warrior]"
     },
     {
       "qid": 305,
       "area": "asteroid",
       "frame": "R6",
-      "pad": "Spawn",
+      "pad": "Left",
       "items": 1,
       "mon": [
         "523"
       ],
-      "_note": "The Dragonoid  [523=Infinity Dragonoid] (boss; all sword parts and Star Fragments drop from it)"
+      "_note": "The Dragonoid  [523=Infinity Dragonoid] (boss: ~42 Star Fragments per kill; each sword part ~2-10% per kill)"
     }
   ]
 }
